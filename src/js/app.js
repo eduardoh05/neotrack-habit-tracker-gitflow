@@ -50,3 +50,5 @@ document.getElementById('add-habit-form').addEventListener('submit', function(ev
         habitInput.value = ''; // Clear input field
     }
 });
+
+
